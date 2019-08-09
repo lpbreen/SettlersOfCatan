@@ -1,6 +1,6 @@
 # SettlersOfCatan
-Setup:
-Use a package manager to install OPAM - the following assumes a MacPorts installation  
+Setup:  
+Use a package manager to install OPAM - the following assumes a MacPorts installation:  
 `sudo port install m4 ocaml opam`  
 Open a terminal and navigate to the project directory - run `make play` and follow the prompts to get started.
 
