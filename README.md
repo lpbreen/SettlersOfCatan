@@ -1,4 +1,5 @@
 # SettlersOfCatan
+An OCaml implementation of the classic board game, "Settlers of Catan" completed for the open-ended Cornell CS3110 midterm project  
 Setup:  
 Use a package manager to install OPAM - the following assumes a MacPorts installation:  
 `sudo port install m4 ocaml opam`  
